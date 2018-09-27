@@ -79,7 +79,7 @@ Instruction Certifications
 
 * June 9, 2018 - elevated to the Degree of Royal Ark Mariner
 
-## A&ASR, Southern Masonic Jurisdiction
+## Ancient & Accepted Scottish Rite, Southern Masonic Jurisdiction, U.S.A.
 
 ### Fort Worth Valley, Orient of Texas
 
