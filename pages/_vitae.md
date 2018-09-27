@@ -18,11 +18,12 @@
 
 * September 15, 2018 - served on the Texas MasoniCon 2018 event staff
 
-Instruction Certifications
+### Instruction Certifications
 
 * March 25, 2016 - passed "C"-level certification exam
 
 ## York Rite
+
 ### Texas Chapter #362, RAM
 
 * March 14, 2017 - advanced to the honorable degree of Mark Master Mason.
