@@ -2,4 +2,5 @@
 
 This page is under construction. Thanks for your patience.
 
-[Contact me.](mailto:texanmason@gmail.com)
+[About Me](pages/aboutme.md)
+[Contact Me](mailto:texanmason@gmail.com)
