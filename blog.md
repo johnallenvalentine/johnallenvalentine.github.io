@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: An Assorted Collection of Ramblings
+title: Essays
 permalink: /blog/
 ---
 
