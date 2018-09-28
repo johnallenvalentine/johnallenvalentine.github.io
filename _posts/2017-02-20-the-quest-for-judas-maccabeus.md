@@ -4,7 +4,7 @@ layout: post
 [sarachan]: /assets/images/2017-02-20-the-quest-for-judas-maccabeus-sarachan.jpg
 [layout]: /assets/images/2017-02-20-the-quest-for-judas-maccabeus-layout.PNG
 [dues card]: /assets/images/2017-02-20-the-quest-for-judas-maccabeus-dues-card.PNG
-.center{
+.center {
   text-align: center;
   }
 
