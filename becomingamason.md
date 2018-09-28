@@ -9,7 +9,7 @@ permalink: /becomingamason/
 * You must believe in some form of God.
 * You must have a clean criminal record.
 
-If you don't meet the qualifications of being male, or believing in God, [email me and we'll talk about alternatives](mailto:texanmason@gmail.com).
+If you don't meet the qualifications of being male or of believing in God, [email me and we'll talk about alternatives](mailto:texanmason@gmail.com).
 
 ## How to Get Started
 You need to find a lodge near your home or work, and start visiting them.
