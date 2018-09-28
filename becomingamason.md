@@ -4,8 +4,10 @@ title: Becoming a Freemason
 permalink: /becomingamason/
 ---
 ## Basic Qualifications
-* You need to be an adult male who believes in some form of God.
-* In most states and countries, you need a clean criminal record.
+* You need to be an adult.
+* You need to be a legal adult.
+* You must believe in some form of God.
+* You must have a clean criminal record.
 
 ## How to Get Started
 You need to find a lodge near your home or work, and start visiting them.
