@@ -7,7 +7,7 @@ layout: post
 
 Founder of the Order of Judas Maccabeus, Brother Herman Sarachan:
 
-<center>![Herman Sarachan][sarachan]{:width="50%" :text-align="center"}</center>
+![Herman Sarachan][sarachan]{:width="50%" :text-align=center}
 
 My latest obsession is one that I've touched on before in the article I shared by R∴W∴ Raymond Beardsley. For those of you that have not yet heard of the Order of Judas Maccabeus, it was an order founded in New York State by a group of brothers seeking a non-Christian alternative to Commandery. The founding of the Order did involve Masons from many aspects of the Craft, including representatives and leaders from the NYS grand bodies of Chapter, Council, and Commandery.
 
