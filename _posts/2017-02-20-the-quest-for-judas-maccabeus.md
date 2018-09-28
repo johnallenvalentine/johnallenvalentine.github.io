@@ -7,7 +7,7 @@ layout: post
 
 Founder of the Order of Judas Maccabeus, Brother Herman Sarachan:
 
-![Herman Sarachan][sarachan]{:width="50%" :style="text-align:center"}
+![Herman Sarachan][sarachan]{:width="50%"}
 
 My latest obsession is one that I've touched on before in the article I shared by R∴W∴ Raymond Beardsley. For those of you that have not yet heard of the Order of Judas Maccabeus, it was an order founded in New York State by a group of brothers seeking a non-Christian alternative to Commandery. The founding of the Order did involve Masons from many aspects of the Craft, including representatives and leaders from the NYS grand bodies of Chapter, Council, and Commandery.
 
@@ -17,7 +17,7 @@ Initially, I thought I had reached a dead end. However, having read the article,
 
 However, I was able to hear back from Brother John Dudley, the Recorder of Doric Council (also the Secretary of Northfield Lodge #426). He informed me that he had been a member of the Order and had watched it slowly die. At the time of his joining, he was the 71st member of the Genesee Valley Assemblage #1, which is is shown on the scan of his last dues card for the Order, which he sent to me:
 
-->![John Dudley's dues card][dues card]{:width="50%"}<-
+![John Dudley's dues card][dues card]{:width="50%"}
 
 Brother Dudley then put me in contact with (R∴W∴) Brother John Gallant, who was not a member of the Order, but had been in contact with Brother Beardsley. I emailed Brother Gallant to talk to him and see what I could learn, and ended up with an incredible surprise. Not only did Brother Gallant inform me that there was an Assemblage operating in Texas, he sent me a copy of the Texas ritual! I don't feel comfortable posting/sharing the ritual in such an accessible format, so I will try to describe the document. The "Standard Work" was written by Brother Sarachan in 1974 in New York State, and the Texas ritual's latest revision, according to the document, was in August 2007, by the late Brother Cliff Cameron. Brother Cameron was a Knight of the York Cross of Honor, and the 2007 Grand Historian of the [Grand Council of Royal and Select Masters of Texas.](http://www.yorkritetexas.org/council/)
 
