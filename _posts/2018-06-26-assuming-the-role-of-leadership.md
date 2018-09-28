@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Pray for me, y'all.
 
 It was my profound honor to be installed as the Most Excellent High Priest in my Royal Arch Chapter, and the Thrice Illustrious Master in my Cryptic Council.
