@@ -1,19 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: TEXAN MASON
+author: Gabriel Jagush
+email: texanmason@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This website is maintained by an individual, and does not represent the positions, opinions, authority, etc, of any lodge, Grand Lodge, or any other form of masonic organization.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+# twitter_username: jekyllrb
+github_username:  texanmason
+# rss: rss
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: texanmason
 # flickr_username: jekyll
-# instagram_username: jekyll
+instagram_username: texanmason
 # linkedin_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
