@@ -7,3 +7,8 @@
 #
 layout: home
 ---
+## Welcome.
+
+This website is an infrequently-updated catalogue of essays, written thoughts, and work that I thought would be worth sharing.
+
+[***Click here if you want to learn more about becoming a Freemason.***](becomingamason.md)
