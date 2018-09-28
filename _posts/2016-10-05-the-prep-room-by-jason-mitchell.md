@@ -2,6 +2,7 @@
 layout: post
 title: "The Prep Room" by V∴I∴ Brother Jason Mitchell
 ---
+
 *This was originally posted to a private lodge Facebook group for Fort Worth Lodge #148.*
 
 **These are some notes on a reddit comment by [V∴I∴ Brother Jason Mitchell](http://www.arslatomorum.com/vitae-maconarium), on the subject of how the Room of Preparation should be set up. All I've done is format it for ease of reading.**
