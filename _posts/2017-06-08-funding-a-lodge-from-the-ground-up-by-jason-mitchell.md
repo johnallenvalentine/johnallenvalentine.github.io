@@ -27,7 +27,7 @@ Use the following formula to find out what you need to get the Lodge off the gro
 
 > Initial Funding = (Total funding from Part 1) + (Three times the double of the total from Part 2)
 
-> or
+or
 
 > Initial Funding = P1 + 6(P2)
 
