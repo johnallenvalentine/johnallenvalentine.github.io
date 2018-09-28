@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Howdy.
+# title: Howdy.
 ---
 This website is an infrequently-updated catalogue of essays, written thoughts, and work that I thought would be worth sharing.
 
