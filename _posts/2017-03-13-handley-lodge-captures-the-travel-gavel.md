@@ -3,7 +3,7 @@ layout: post
 ---
 Where the magic happens:
 
-![The Fort Worth Masonic Temple](/assets/images/2017-03-13-handley-lodge-captures-the-travel-gavel-temple.jpg)
+![The Fort Worth Masonic Temple](images/2017-03-13-handley-lodge-captures-the-travel-gavel-temple.jpg)
 
 Last night was pretty great!
 
