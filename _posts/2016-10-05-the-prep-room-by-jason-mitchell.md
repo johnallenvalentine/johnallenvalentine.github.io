@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Prep Room by Jason Mitchell
+title: "The Prep Room" by Jason Mitchell
 ---
 
 *This was originally posted to a private lodge Facebook group for Fort Worth Lodge #148.*
