@@ -16,7 +16,7 @@ permalink: /vitae/
 
 * November 21, 2016 - raised to the sublime degree of a Master Mason.
 
-* February 17, 2017 - began tenure as cohost and audio engineer of the [Fort Worth 148 Podcast](https://www.google.com/search?q=fort+worth+148+podcast)
+* February 17, 2017 - began tenure as co-host, co-writer, and lead audio engineer of the [Fort Worth 148 Podcast](https://www.google.com/search?q=fort+worth+148+podcast)
 
 * June 30, 2018 - installed as Senior Deacon.
 
