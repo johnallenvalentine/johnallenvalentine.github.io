@@ -9,4 +9,4 @@ layout: home
 # title: Welcome.
 ---
 
-My name is J. A. Valentine, and these are some of my micro-stories.
+My name is John Valentine, and these are some of my micro-stories.
