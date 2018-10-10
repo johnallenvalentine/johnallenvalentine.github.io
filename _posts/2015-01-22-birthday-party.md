@@ -3,6 +3,10 @@ layout: post
 title: Birthday Party
 ---
 
+*Originally posted under as /u/whatthefuckguys on Reddit.*
+
+* * *
+
 Today was going to be the perfect birthday for Adam, Christy was sure of it. The cake that she ordered had arrived the night before, pristine and beautiful. The balloons were inflated, friends invited, and she'd even hired a magician to show up later! No expense had been spared.
  
 She walked into the garden, admiring the streamers that she had put up. The music was playing - loud enough to be heard, but quiet enough for the mothers to chat with each other. The other parents would be so jealous of the party she'd thrown together. Guilty pleasure tickled at her mind as she pictured Adam's friends begging their parents for a party like his.
