@@ -1,17 +1,17 @@
-title: TEXAN MASON
-author: Gabriel Jagush
-email: texanmason@gmail.com
+title: J. A. Valentine
+author: John Allen Valentine
+email: johnallenvalentine@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  This website is maintained by an individual, and does not represent the positions, opinions, authority, etc, of any lodge, Grand Lodge, or any other form of masonic organization.
+  Just a hack trying to make a buck.
 
 # social links
 # twitter_username: jekyllrb
-github_username:  texanmason
+# github_username:  johnallenvalentine
 # rss: rss
 # dribbble_username: jekyll
-facebook_username: texanmason
+# facebook_username: johnallenvalentine
 # flickr_username: jekyll
-instagram_username: texanmason
+# instagram_username: texanmason
 # linkedin_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -34,11 +34,11 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
- - about.md
- - becomingamason.md
- - blog.md
- - contact.md
+#header_pages:
+ #- about.md
+ #- becomingamason.md
+ #- blog.md
+ #- contact.md
 
 # Build settings
 theme: minima
